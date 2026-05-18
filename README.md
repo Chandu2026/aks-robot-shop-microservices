@@ -149,9 +149,11 @@ az aks nodepool scale \
 
 ---
 
-## Author
+# Note
 
-Chilakapati Chandra Sekhar
+This project was implemented for learning and hands-on practice purposes by following DevOps/Kubernetes learning resources and tutorials.
+
+I personally configured the CI/CD workflow, worked on troubleshooting issues, deployed the application on AKS, and integrated ArgoCD for Continuous Delivery to improve my practical DevOps skills.
 
 GitHub:https://github.com/Chandu2026/aks-robot-shop-microservices
 LinkedIn:https://www.linkedin.com/in/chandra-sekhar-chilakapati-81024b383/
